@@ -1,10 +1,17 @@
 ### Olá Mundo, eu sou o Robson 👋
 
-- 🔭 Hoje estou trabalhando como assitente de Vendas, entretanto
-estou procurando um estágio como desenvolvedor Back-end.
+ Aos 17 anos, dei início a uma emocionante jornada no mundo da tecnologia através de um curso básico de informática. Foi uma experiência verdadeiramente incrível!
+ Continuei minha jornada na área da tecnologia na faculdade, e atualmente estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, durante essa jornada adquiri diversos conhecimentos como: Lógica de Programação, Java, HTML, CSS, Javascript, Jquery, MySQL, PHP e Git. Além disso, minha experiência prática de dois anos de trabalho me permitiu dominar o Excel e aprimorei minha capacidade de trabalhar em equipe.
+ Estou ciente que ainda tenho muita coisa para explorar e aprender na área de tecnologia dedico grande esforço e tempo, Além das atividades da faculdade estou constantemente realizando cursos online para me manter atualizado e aplicar meus conhecimentos na prática.
 
-- 🌱 Estou aprendendendo Java, logo estarei evoluindo para aprender
-uma linguagem front-end.
+<p>olá mundo</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="width: 10em;display: inline-block;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="width: 10em;display: inline-block;"/>
 
+<style>
+p{
+color="red";
+}
+</style>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonDevLang&show_icons=true&theme=transparent)
 
