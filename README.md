@@ -18,7 +18,6 @@ Aos 17 anos, dei in√≠cio a uma emocionante jornada no mundo da tecnologia atrav√
    <td><img src="https://github.com/RobsonDevLang/RobsonDevLang/assets/105134223/9a003e02-2879-48de-b512-31eaa8094dde" alt="EXCEL" width="125" height="100"></td>
   </tr>
   <tr style="text-align: center;">
-    <td style=text-align: center;>JAVA</td>
     <td style=text-align: center;>MYSQL</td>
     <td style=text-align: center;>JavaScript</td>
     <td style=text-align: center;>HTML</td>
