@@ -12,6 +12,7 @@ Aos 17 anos, dei in√≠cio a uma emocionante jornada no mundo da tecnologia atrav√
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="100" height="100"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="100" height="100"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="100" height="100"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="100" height="100"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="100" height="100"></td>
@@ -20,6 +21,7 @@ Aos 17 anos, dei in√≠cio a uma emocionante jornada no mundo da tecnologia atrav√
   <tr style="text-align: center;">
     <td style=text-align: center;>MYSQL</td>
     <td style=text-align: center;>JavaScript</td>
+   <td style=text-align: center;>TypeScript</td>
     <td style=text-align: center;>HTML</td>
     <td style=text-align: center;>CSS</td>
     <td style=text-align: center;>PHP</td>
