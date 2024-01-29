@@ -35,7 +35,7 @@ Aos 17 anos, dei in√≠cio a uma emocionante jornada no mundo da tecnologia atrav√
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:FFF)](https://www.linkedin.com/in/robson-de-vargas-lang-352440209/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:FFF)](https://www.linkedin.com/in/robsondevlang/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonDevLang&show_icons=true&theme=transparent)
 
