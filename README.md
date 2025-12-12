@@ -37,8 +37,10 @@ Sou <strong>proativo</strong> na busca por aprimoramento contínuo, aplicando mi
   </tr>
 </table>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:FFF)](https://www.linkedin.com/in/robsondevlang/)
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:robsondev.lang@hotmail.com)
-[![Telefone](https://img.shields.io/badge/-Telefone-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5551986542661)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robsondevlang/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:robsondev.lang@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5551986542661)
+
+
 
 
