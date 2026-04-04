@@ -2,13 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+mundo!👋;+Me+Chamo+Robson.;Sejam+muito+bem+vindos!;)](https://git.io/typing-svg)
 <div>
 <p>
-Sou profissional com <strong>1 ano e 8 meses de experiência</strong> em <strong>Desenvolvimento de Software</strong>, 
-formado em <strong>Análise e Desenvolvimento de Sistemas</strong>. 
-Possuo sólidos conhecimentos em desenvolvimento web, atuando no front-end, com 
-<strong>Angular, TypeScript, Bootstrap, HTML e CSS</strong>, e no back-end, com 
-<strong>.NET (C#)</strong> e noções de <strong>Node.js</strong>. 
-Além disso, tenho experiência com <strong>bancos de dados MySQL, SQL Server e SQL HANA</strong>. 
-Sou <strong>proativo</strong> na busca por aprimoramento contínuo, aplicando minhas habilidades para desenvolver soluções eficientes e inovadoras que contribuam para a evolução dos projetos de tecnologia.
+Desenvolvedor formado em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento, manutenção e evolução de sistemas, atuando na criação de funcionalidades, correção de bugs, integração entre sistemas e melhorias de performance. Também tenho experiência no levantamento de requisitos e na análise de regras de negócio, buscando entregar soluções eficientes e alinhadas às necessidades da empresa.
 </p>
 
 
